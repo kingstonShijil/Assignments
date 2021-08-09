@@ -75,4 +75,8 @@ We learned about Mental Model which we see in the world earlier
 	- Chess engine follows trial and error method
 
 Definition of mark up language: Adds additional context and formating to the existing language. Some of the existing Mark up languages are Json, YMAL, HTML, XML etc...
+
+##Day 05
+
+We were brainstroming about Hamiltonian path and Euler graph theory. Then we discussed about the Do's and Dont's of premeeting, Meeting and Post meeting.
    
